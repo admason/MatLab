@@ -1,0 +1,16 @@
+%%% Certain items cost £10 each. 
+%%% But if the customer purchases more than 100 items, then the price
+%%% of additional items will drop to £9 per item.
+
+
+close all
+clear all
+clc
+
+nitem=input('How many items did you buy? ');
+cost=nitem*10;
+if nitem>100
+  cost=cost-(nitem-100);
+end
+
+disp(['Cost: ',num2str(cost)]);
