@@ -4,3 +4,4 @@ Note these code should be executablle in Octave (Open Source)
 
 1:  Newton's Law of Cooling
 2:  Shopping for 100+ items
+3.  Double a chosen number if it fits a range.
