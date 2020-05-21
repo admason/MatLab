@@ -6,4 +6,4 @@ Note these code should be executablle in Octave (Open Source)
 2:  Shopping for 100+ items.
 3.  Double a chosen number if it fits a range.
 4.  Inverse Calculator.
-5.  Graduation Prize.
+5.  Graduation Prize. 
