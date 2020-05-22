@@ -9,3 +9,4 @@ Note these code should be executablle in Octave (Open Source)
 5.  Graduation Prize. 
 6.  Double the elements in a vector
 7.  Find the random elements of a vector and find the element between certain values.
+8. Battle Sim: Which army will be victorious
